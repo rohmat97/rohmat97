@@ -52,4 +52,5 @@ I build scalable, production-grade web and mobile applications with a strong foc
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=rohmat97&icon=0&color=0)
+[![](https://visitcount.itsvg.in/api?id=rohmat97&icon=0&color=0)](https://rohmat97.github.io/portofolio/)
+
